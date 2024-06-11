@@ -1,16 +1,13 @@
 ## Hi there 👋
 
-<!--
-**02xjulian/02xjulian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies & Tools
+![csharp](https://img.shields.io/badge/csharp-black?style=flat-square&logo=csharp&logoColor=purple)
+![javascript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript)
+![cplusplus](https://img.shields.io/badge/c++-black?style=flat-square&logo=cplusplus&logoColor=blue)
+![c](https://img.shields.io/badge/c-black?style=flat-square&logo=c&logoColor=blue)
+![php](https://img.shields.io/badge/php-black?style=flat-square&logo=php&logoColor=blue)
+![laravel](https://img.shields.io/badge/Laravel-black?style=flat-square&logo=laravel&logoColor=blue)
+![npm](https://img.shields.io/badge/npm-black?style=flat-square&logo=npm&logoColor=blue)
+![.net](https://img.shields.io/badge/.NET-black?style=flat-square&logo=.net&logoColor=blue)
+![lua](https://img.shields.io/badge/Lua-black?style=flat-square&logo=lua)
+![typescript](https://img.shields.io/badge/Typescript-black?style=flat-square&logo=typescript&logoColor=blue)
